@@ -1,2 +1,2 @@
 # LLM01BasicChat
-Streamlit Ollama - Basic Chatbot by AIDevBytes
+Streamlit Ollama - Basic Chatbot from AIDevBytes
